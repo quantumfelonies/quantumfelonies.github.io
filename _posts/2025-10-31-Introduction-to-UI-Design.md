@@ -1,3 +1,10 @@
+---
+title: "Introduction to UI Design Principles"
+date: 2025-10-31 08:30:00 +0300
+categories: [Design, UI/UX]
+tags: [usability, accessibility, design-principles]
+---
+
 # Introduction to UI Design Principles
 
 Good UI design is more than just making things look nice — it’s about creating interfaces that feel natural, intuitive, and effortless to use.  
