@@ -8,6 +8,7 @@ tags: [xss, sql-injection, csrf]
 # Introduction to Web Vulnerabilities
 
 Every website has hidden weak spots—small mistakes in code or setup that hackers can exploit. These are called **web vulnerabilities**.
+![Web Vulnerabilities](/assets/vulnerabilities.jpeg)  {:width= "600"}
 
 They show up in different ways:  
 - **SQL Injection (SQLi)** – attackers slip harmful code into database queries  
