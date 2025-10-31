@@ -3,12 +3,17 @@ title: "Introduction to Web Vulnerabilities"
 date: 2025-10-24 10:38:00 +0300
 categories: [Cybersecurity, Web]
 tags: [xss, sql-injection, csrf]
+image:
+path: /assets/vulnerabilities.jpeg
+alt: "Types of web vulnerabilities"
+width: 1200
+height: 650
 ---
 
 # Introduction to Web Vulnerabilities
 
 Every website has hidden weak spots—small mistakes in code or setup that hackers can exploit. These are called **web vulnerabilities**.
-![Web Vulnerabilities](/assets/vulnerabilities.jpeg)  {:width= "600"}
+![Web Vulnerabilities](/assets/vulnerabilities.jpeg)
 
 They show up in different ways:  
 - **SQL Injection (SQLi)** – attackers slip harmful code into database queries  
