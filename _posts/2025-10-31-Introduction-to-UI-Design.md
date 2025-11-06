@@ -2,7 +2,7 @@
 title: "Introduction to UI Design Principles"
 date: 2025-10-31 08:30:00 +0300
 categories: [Design, UI/UX]
-tags: [usability, accessibility, design]
+tags: [usability, accessibility, design, xss, csrf]
 ---
 
 # Introduction to UI Design Principles
